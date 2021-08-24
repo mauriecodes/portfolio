@@ -1,0 +1,14 @@
+body {
+    font-family: 'Kaisei Decol', serif;
+    background-color: #fef6e4;
+}
+h1 {
+    font-family: "Allura", cursive;
+}
+.jumbotron {
+    margin: 0;
+}
+.navbar {
+    background-color: pink;
+
+}
